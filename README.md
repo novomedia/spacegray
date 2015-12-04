@@ -29,3 +29,9 @@ Spacegray works best and comes with [Base16 Ocean](http://chriskempson.github.io
   "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"
 }
 ```
+
+
+License
+-------
+
+It is licensed under the terms of the LGPLv3.
